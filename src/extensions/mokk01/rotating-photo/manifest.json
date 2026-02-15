@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Rotating Photo Player",
+        "description": "Replaces the album art in the player and now playing panel with a smoothly rotating version of a fixed photo. Mimics a vinyl record effect.",
+        "preview": "preview.jpg",
+        "main": "rotating-image.js",
+        "readme": "README.md",
+        "authors": [
+            {
+                "name": "mokk01",
+                "url": "https://github.com/mokk01"
+            }
+        ],
+        "tags": [
+            "visual",
+            "animation",
+            "album-art"
+        ]
+    }
+]
